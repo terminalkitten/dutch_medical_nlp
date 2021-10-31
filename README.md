@@ -1,7 +1,3 @@
----
-language: "nl"
----
-
 # Dutch medical NLP
 This repository contains a collection of Dutch medical texts which were used for [domain-adaptive pretraining](http://dx.doi.org/10.18653/v1/2020.acl-main.740) to pretrain Dutch medical language models (see [here](https://huggingface.co/basarends/dutch_medical_robbert/) and [here](https://huggingface.co/basarends/dutch_medical_mbert/)).
 
